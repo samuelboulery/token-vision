@@ -1,0 +1,209 @@
+{
+  "name": "conception",
+  "children": [
+    {
+      "name": "Spacers",
+      "children": [
+        {
+          "name": "watt spacer/none",
+          "value": 0.0
+        },
+        {
+          "name": "watt spacer/3xs",
+          "value": 12.5
+        },
+        {
+          "name": "watt spacer/2xs",
+          "value": 25.0
+        },
+        {
+          "name": "watt spacer/xs",
+          "value": 37.5
+        },
+        {
+          "name": "watt spacer/s",
+          "value": 50.0
+        },
+        {
+          "name": "watt spacer/ms",
+          "value": 75.0
+        },
+        {
+          "name": "watt spacer/m",
+          "value": 100.0
+        },
+        {
+          "name": "watt spacer/l",
+          "value": 150.0
+        },
+        {
+          "name": "watt spacer/xl",
+          "value": 200.0
+        },
+        {
+          "name": "watt spacer/2xl",
+          "value": 250.0
+        },
+        {
+          "name": "watt spacer/3xl",
+          "value": 300.0
+        },
+        {
+          "name": "watt spacer/4xl",
+          "value": 350.0
+        },
+        {
+          "name": "watt spacer/5xl",
+          "value": 400.0
+        }
+      ]
+    },
+    {
+      "name": "Radius",
+      "children": [
+        {
+          "name": "watt radius/none",
+          "value": 0.0
+        },
+        {
+          "name": "watt radius/2xs",
+          "value": 6.25
+        },
+        {
+          "name": "watt radius/xs",
+          "value": 12.5
+        },
+        {
+          "name": "watt radius/s",
+          "value": 25.0
+        },
+        {
+          "name": "watt radius/m",
+          "value": 50.0
+        },
+        {
+          "name": "watt radius/l",
+          "value": 75.0
+        },
+        {
+          "name": "watt radius/xl",
+          "value": 100.0
+        },
+        {
+          "name": "watt radius/full",
+          "value": 62493.75
+        }
+      ]
+    },
+    {
+      "name": "Border-width",
+      "children": [
+        {
+          "name": "watt border-width/none",
+          "value": 0.0
+        },
+        {
+          "name": "watt border-width/s",
+          "value": 6.25
+        },
+        {
+          "name": "watt border-width/m",
+          "value": 12.5
+        },
+        {
+          "name": "watt border-width/l",
+          "value": 25.0
+        }
+      ]
+    },
+    {
+      "name": "Sizes",
+      "children": [
+        {
+          "name": "watt size/5xs",
+          "value": 100.0
+        },
+        {
+          "name": "watt size/4xs",
+          "value": 150.0
+        },
+        {
+          "name": "watt size/3xs",
+          "value": 200.0
+        },
+        {
+          "name": "watt size/2xs",
+          "value": 250.0
+        },
+        {
+          "name": "watt size/xs",
+          "value": 300.0
+        },
+        {
+          "name": "watt size/s",
+          "value": 400.0
+        },
+        {
+          "name": "watt size/m",
+          "value": 600.0
+        },
+        {
+          "name": "watt size/l",
+          "value": 1300.0
+        },
+        {
+          "name": "watt size/xl",
+          "value": 1500.0
+        },
+        {
+          "name": "watt size/2xl",
+          "value": 2000.0
+        },
+        {
+          "name": "watt size/3xl",
+          "value": 2400.0
+        },
+        {
+          "name": "watt size/4xl",
+          "value": 3250.0
+        },
+        {
+          "name": "watt size/5xl",
+          "value": 4000.0
+        },
+        {
+          "name": "watt size/6xl",
+          "value": 6000.0
+        }
+      ]
+    },
+    {
+      "name": "1. Interface",
+      "children": []
+    },
+    {
+      "name": "2. Primary",
+      "children": []
+    },
+    {
+      "name": "3. Neutral",
+      "children": []
+    },
+    {
+      "name": "5. Success",
+      "children": []
+    },
+    {
+      "name": "6. Warning",
+      "children": []
+    },
+    {
+      "name": "7. Danger",
+      "children": []
+    },
+    {
+      "name": "8. Info",
+      "children": []
+    }
+  ]
+}
